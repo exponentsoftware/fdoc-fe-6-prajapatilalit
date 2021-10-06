@@ -22,6 +22,7 @@ const Navbar = (props) => {
 
           <div className="nav-item">
             <ul>
+            {}
               <Link to="/addalbum">
                 <li>AddAlbum</li>
               </Link>

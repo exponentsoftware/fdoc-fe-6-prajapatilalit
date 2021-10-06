@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Signup from "../Signup/Signup";
 
 class Home extends Component {
   render() {
@@ -7,6 +8,7 @@ class Home extends Component {
         <div className="container">
           <div className="header">
             <h1 className="albums-heading">Welcome to Music Albums</h1>
+            <Signup />
           </div>
         </div>
       </>
