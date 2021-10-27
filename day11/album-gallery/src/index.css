@@ -127,12 +127,17 @@ body {
   height: auto;
 }
 
+.form_title {
+  text-transform: uppercase;
+  padding: 10px 0;
+}
+
 .addAlbum-form {
   display: flex;
   flex-direction: column;
   position: absolute;
   width: 30%;
-  top: 35%;
+  top: 55%;
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -172,7 +177,6 @@ body {
   background-color: #8c0000;
   color: white;
 }
-*/
 
 /* albums display css */
 
@@ -296,3 +300,5 @@ table {
   width: 60px;
   height: 60px;
 }
+
+/* signup */

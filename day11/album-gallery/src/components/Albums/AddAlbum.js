@@ -39,7 +39,7 @@ class AddAlbum extends Component {
       <>
         <div className="addAlbum-header">
           <form onSubmit={this.handleSubmit} className="addAlbum-form">
-            <h2>Add Album Here</h2>
+            <h2 className="form_title">Add Album Here</h2>
             <input
               type="text"
               name="album"
