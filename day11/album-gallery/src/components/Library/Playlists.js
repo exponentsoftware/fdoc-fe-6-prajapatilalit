@@ -7,8 +7,8 @@ const Playlists = ({ playlistItems, onDeletePlaylist }) => {
       key={playlist.id}
       id={playlist.id}
       pname={playlist.pname}
-      createdBy={playlist.createdBy}
       playlistImage={playlist.pimage}
+      createdBy={playlist.createdBy}
       playlistData={playlist}
       onRemovePlaylist={onDeletePlaylist}
     />
