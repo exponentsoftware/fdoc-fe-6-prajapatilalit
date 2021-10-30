@@ -3,7 +3,7 @@ const playlistItems = [
     id: 0,
     pname: "My Playlist 1",
     pimage:
-      "https://www.iwmbuzz.com/wp-content/uploads/2021/04/top-five-songs-of-neha-kakkar-to-listen-920x518.jpg",
+      "https://www.shaadidukaan.com/vogue/wp-content/uploads/2019/08/hug-kiss-images.jpg",
     createdBy: "by lalit",
   },
   {
